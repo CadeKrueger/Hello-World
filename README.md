@@ -1,7 +1,8 @@
 # Hello-World
 
 ## Table of Contents
-[PROJECT TITLE](www.google.com)
+[PROJECT TITLE](Project Title)
+[Description](www.google.com)
 ## Project Title
 ## Description
 ## How to Run Program
