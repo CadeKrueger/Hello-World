@@ -8,10 +8,18 @@
 - [ADDITIONAL DOCUMENTATION](https://github.com/CadeKrueger/Hello-World/blob/main/README.md#additional-documentation)
 - [VERSIONING](https://github.com/CadeKrueger/Hello-World/blob/main/README.md#versioning)
 ## Project Title
+#### BAIS:3050 Hello World Sample
 ## Description
+#### *This repository is meant to display an understanding of github basics and markdown styles*
 ## How to Run Program
+#### Hello_World/
+####            └── 
+####               │── README.md
 ## Files Used
+#### **NO FILES USED**
 ## Additional Documentation
+#### **NO ADDITIONAL DOCUMENTATION**
 ## Versioning
+#### **NO VERSIONS**
 
 
