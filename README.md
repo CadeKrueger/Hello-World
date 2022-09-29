@@ -12,9 +12,7 @@
 ## Description
 #### *This repository is meant to display an understanding of github basics and markdown styles*
 ## How to Run Program
-#### Hello_World/
-####            └── 
-####               │── README.md
+#### Only file needed is README.md
 ## Files Used
 #### **NO FILES USED**
 ## Additional Documentation
